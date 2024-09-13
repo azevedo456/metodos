@@ -1,2 +1,2 @@
-# mitologias-geis-
+# métodos-ágeis
 trabalho
